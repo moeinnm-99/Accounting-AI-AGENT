@@ -1,0 +1,43 @@
+{
+    "daily_data": [
+        {
+            "date": "2025-07-03",
+            "revenue": 14000,
+            "cost": 8500,
+            "customers": 95
+        },
+        {
+            "date": "2025-07-04",
+            "revenue": 15000,
+            "cost": 9000,
+            "customers": 100
+        },
+        {
+            "date": "2025-07-05",
+            "revenue": 15800,
+            "cost": 9500,
+            "customers": 90
+        },
+        {
+            "date": "2025-07-06",
+            "revenue": 17000,
+            "cost": 10200,
+            "customers": 85
+        },
+        {
+            "date": "2025-07-07",
+            "revenue": 18500,
+            "cost": 11200,
+            "customers": 80
+        }
+    ],
+    "profit": 7300,
+    "cac_today": 140.0,
+    "cac_yesterday": 120.0,
+    "avg_revenue": 15450,
+    "avg_cost": 9300,
+    "alerts": [],
+    "recommendations": [
+        "Consider increasing advertising budget as sales trend is growing"
+    ]
+}
